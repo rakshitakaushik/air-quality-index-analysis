@@ -1,1 +1,1 @@
-# maze-solver-using-dijkstra-algorithm
+# air quality index analysis
